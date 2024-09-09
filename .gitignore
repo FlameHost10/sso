@@ -24,4 +24,4 @@ vendor/
 *.env
 *.rdb
 
-config/local.yaml
+*/config/local.yaml
